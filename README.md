@@ -10,8 +10,7 @@
 - ⚡ Fun fact: ...
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)
-&nbsp; [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/)   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:snugyun01@gmail.com)  [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/c/kyleschool)](https://www.youtube.com/c/kyleschool)  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://zzsza.github.io/)
-	
+&nbsp; [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/) 	
 <!--
 **AasaiAlangaram/AasaiAlangaram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
