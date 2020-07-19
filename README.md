@@ -9,7 +9,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/aasaialangaram-%F0%9F%A4%96-b614b2a2/)
 &nbsp; [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/) 	
 <!--
 **AasaiAlangaram/AasaiAlangaram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
