@@ -1,16 +1,11 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Embedded software development 
-- 🌱 I’m currently learning Deep learning and computer vision
-- 👯 I’m looking to collaborate on 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🔭 Who I Am -> Embedded Software Developer  
+- 🌱 Working In *SL Corporation*
 - 📫 How to reach me: aasaialangaram450@gmail.com 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/aasaialangaram-%F0%9F%A4%96-b614b2a2/)
-&nbsp; [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/) 	
+&nbsp; [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/AasaiAlangaram) 	
 <!--
 **AasaiAlangaram/AasaiAlangaram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
