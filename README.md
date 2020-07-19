@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there :octocat: 👋
 
 - ***1996*** :baby: :arrow_right: ***2000 ~ 2012***(school) :school: :arrow_right: ***2013 ~ 2017***(Bachelor in Electronics engineering) :boy: :arrow_right: ***2017*** ~ :office: Embedded software developer  
 - 🌱 Excited about -> Machine learning, Deep learning, Computer vision.
