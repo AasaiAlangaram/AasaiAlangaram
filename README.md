@@ -1,6 +1,6 @@
 ### Hi there :octocat: 
 
-- **1996** :baby: :arrow_right: **2000 ~ 2012**(school) :school: :arrow_right: **2013 ~ 2017**(Bachelor in Electronics engineering) :boy: :arrow_right: **2017** ~ :office: **Embedded software developer**  
+- **Embedded software developer**  
 
 - 🌱 Excited about -> **Machine learning, Deep learning, Computer vision.**
 - 📫 How to reach me: aasaialangaram450@gmail.com 
@@ -21,3 +21,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+**1996** :baby: :arrow_right: **2000 ~ 2012**(school) :school: :arrow_right: **2013 ~ 2017**(Bachelor in Electronics engineering) :boy: :arrow_right: **2017** ~ :office: 
