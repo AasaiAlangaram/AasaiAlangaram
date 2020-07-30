@@ -14,8 +14,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
-
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/aasaialangaram-%F0%9F%A4%96-b614b2a2/)
 &nbsp; [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/AasaiAlangaram) 
 
@@ -24,6 +22,8 @@
 | 💻 **Technology** | 🚀 **Projects** |
 |-|-|
 | [![Python](https://img.shields.io/static/v1?label=&message=Python&color=3C78A9&logo=python&logoColor=FFFFFF)](https://www.python.org/) | [![LIN Diagnostic Tool](https://img.shields.io/static/v1?label=hackbout-certificate-generator&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/AasaiAlangaram/Python-LIN-Diagnostic-Tool) |
+
+<img align="right" alt="GIF" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
 ![Aasai github stats](https://github-readme-stats.vercel.app/api?username=AasaiAlangaram&show_icons=true&hide_border=true)
 <!--
