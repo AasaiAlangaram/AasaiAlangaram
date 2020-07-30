@@ -3,7 +3,13 @@
 - **I'm Embedded software developer**  
 
 - 🌱 Excited about -> **Machine learning, Deep learning, Computer vision.**
+-  xxx
+-  xxx
+-  xxx
 - 📫 How to reach me: aasaialangaram450@gmail.com 
+
+
+<img align="right" alt="GIF" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
 **Languages and Tools:**  
 
@@ -25,7 +31,6 @@
 
 ![Aasai github stats](https://github-readme-stats.vercel.app/api?username=AasaiAlangaram&show_icons=true&hide_border=true)
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 <!--
 **AasaiAlangaram/AasaiAlangaram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
