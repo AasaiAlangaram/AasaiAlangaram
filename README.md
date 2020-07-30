@@ -5,7 +5,7 @@
 - 🌱 Excited about -> **Machine learning, Deep learning, Computer vision.**
 - 📫 How to reach me: aasaialangaram450@gmail.com 
 
-<img align="right" alt="GIF" src="https://giphy.com/gifs/programmer-p4NLw3I4U0idi.gif" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" />
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/aasaialangaram-%F0%9F%A4%96-b614b2a2/)
 &nbsp; [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/AasaiAlangaram) 
