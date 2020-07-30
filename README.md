@@ -23,9 +23,9 @@
 |-|-|
 | [![Python](https://img.shields.io/static/v1?label=&message=Python&color=3C78A9&logo=python&logoColor=FFFFFF)](https://www.python.org/) | [![LIN Diagnostic Tool](https://img.shields.io/static/v1?label=hackbout-certificate-generator&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/AasaiAlangaram/Python-LIN-Diagnostic-Tool) |
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
-
 ![Aasai github stats](https://github-readme-stats.vercel.app/api?username=AasaiAlangaram&show_icons=true&hide_border=true)
+
+<img align="right" alt="GIF" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 <!--
 **AasaiAlangaram/AasaiAlangaram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
