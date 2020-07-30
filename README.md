@@ -14,9 +14,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-
 <img align="right" alt="GIF" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
-
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/aasaialangaram-%F0%9F%A4%96-b614b2a2/)
 &nbsp; [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/AasaiAlangaram) 
 
