@@ -1,5 +1,7 @@
 ### Hi there :octocat: I'm [Aasai!]()
 
+<img align="right" alt="GIF" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
+
 - **I'm Embedded software developer**  
 
 - 🌱 Excited about -> **Machine learning, Deep learning, Computer vision.**
@@ -7,9 +9,6 @@
 -  xxx
 -  xxx
 - 📫 How to reach me: aasaialangaram450@gmail.com 
-
-
-<img align="right" alt="GIF" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
 **Languages and Tools:**  
 
@@ -27,7 +26,7 @@
 <!-- START OF PROFILE STACK, DO NOT REMOVE -->
 | 💻 **Technology** | 🚀 **Projects** |
 |-|-|
-| [![Python](https://img.shields.io/static/v1?label=&message=Python&color=3C78A9&logo=python&logoColor=FFFFFF)](https://www.python.org/) | [![LIN Diagnostic Tool](https://img.shields.io/static/v1?label=hackbout-certificate-generator&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/AasaiAlangaram/Python-LIN-Diagnostic-Tool) |
+| [![Python](https://img.shields.io/static/v1?label=&message=Python&color=3C78A9&logo=python&logoColor=FFFFFF)](https://www.python.org/) | [![LIN Diagnostic Tool](https://img.shields.io/static/v1?label=LIN Diagnostic Tool&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/AasaiAlangaram/Python-LIN-Diagnostic-Tool) |
 
 ![Aasai github stats](https://github-readme-stats.vercel.app/api?username=AasaiAlangaram&show_icons=true&hide_border=true)
 
