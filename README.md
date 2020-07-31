@@ -6,8 +6,8 @@
 
 - 🌱 Excited about -> **Machine learning, Deep learning, Computer vision.**
 -  Love to create robots.
--  
--  
+-  Always excited to learn new technologies.
+-  Ask me any doubts in embedded software development.
 - 📫 How to reach me: aasaialangaram450@gmail.com 
 
 **Languages and Tools:**  
