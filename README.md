@@ -5,8 +5,8 @@
 - **I'm Embedded software developer**  
 
 - 🌱 Excited about -> **Machine learning, Deep learning, Computer vision.**
--  xxx
--  xxx
+-  Love to create robots.
+-  
 -  xxx
 - 📫 How to reach me: aasaialangaram450@gmail.com 
 
