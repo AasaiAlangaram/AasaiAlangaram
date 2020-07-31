@@ -7,7 +7,7 @@
 - 🌱 Excited about -> **Machine learning, Deep learning, Computer vision.**
 -  Love to create robots.
 -  
--  xxx
+-  
 - 📫 How to reach me: aasaialangaram450@gmail.com 
 
 **Languages and Tools:**  
