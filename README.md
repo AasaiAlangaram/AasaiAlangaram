@@ -2,12 +2,13 @@
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
-- **I'm Embedded software developer**  
+- **I'm Embedded software developer/Creative Thinker**  
 
 - 🌱 Excited about -> **Machine learning, Deep learning, Computer vision.**
--  Love to create robots.
--  Always excited to learn new technologies.
--  Ask me any doubts in embedded software development.
+-  :robot: Love to create robots that can be helpful for Mankind.
+-  :calendar: Always excited to learn new technologies.
+-  :telephone_receiver: Talk with me about embedded software development/Deep learning/computer vision/Robotics.
+If you like my works, give a :star:
 - 📫 How to reach me: aasaialangaram450@gmail.com 
 
 **Languages and Tools:**  
