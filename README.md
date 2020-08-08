@@ -29,7 +29,7 @@ If you like my works, give a :star:
 |-|-|
 | [![Python](https://img.shields.io/static/v1?label=&message=Python&color=3C78A9&logo=python&logoColor=FFFFFF)](https://www.python.org/) | [![LIN Diagnostic Tool](https://img.shields.io/static/v1?label=LIN-Diagnostic-Tool&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/AasaiAlangaram/Python-LIN-Diagnostic-Tool) [![Python-Imagetopdf-converter](https://img.shields.io/static/v1?label=Python-Imagetopdf-converter&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/AasaiAlangaram/Python-GUI-for-img2pdf-converter) [![Python-Mini-Projects](https://img.shields.io/static/v1?label=Python-Mini-Projects&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/AasaiAlangaram/Python-Mini-Projects) |
 
-![Aasai github stats](https://github-readme-stats.vercel.app/api?username=AasaiAlangaram&show_icons=true&hide_border=true)
+  ![Aasai github stats](https://github-readme-stats.vercel.app/api?username=AasaiAlangaram&show_icons=true&hide_border=true)
 
 <!--
 **AasaiAlangaram/AasaiAlangaram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
