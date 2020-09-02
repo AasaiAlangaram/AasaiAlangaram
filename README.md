@@ -9,6 +9,7 @@
 -  :calendar: Always excited to learn new technologies.
 -  :telephone_receiver: Talk with me about embedded software development/Deep learning/computer vision/Robotics.
 If you like my works, give a :star:
+- My Inspiration : Elon Musk
 - 📫 How to reach me: aasaialangaram450@gmail.com 
 
 **Languages and Tools:**  
