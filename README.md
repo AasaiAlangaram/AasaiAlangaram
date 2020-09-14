@@ -4,7 +4,7 @@
 
 - **I'm Embedded software developer/Creative Thinker**  
 
-- 🌱 Excited about -> **Machine learning, Deep learning, Computer vision.**
+- 🌱 Excited about -> **Embedded systems, Machine learning, Deep learning, Computer vision.**
 -  :robot: Love to create robots that can be helpful for Mankind.
 -  :calendar: Always excited to learn new technologies.
 -  :telephone_receiver: Talk with me about embedded software development/Deep learning/computer vision/Robotics.
